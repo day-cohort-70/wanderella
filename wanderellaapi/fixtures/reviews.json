@@ -1,0 +1,46 @@
+[
+  {
+    "model": "wanderellaapi.Review",
+    "pk": 1,
+    "fields": {
+      "booking_id": 1,
+      "rating": 4,
+      "comment": "Great experience! The flight was comfortable, and the hotel was amazing.",
+      "created_at": "2023-07-05T10:00:00Z",
+      "updated_at": "2023-07-05T10:00:00Z"
+    }
+  },
+  {
+    "model": "wanderellaapi.Review",
+    "pk": 2,
+    "fields": {
+      "booking_id": 2,
+      "rating": 5,
+      "comment": "Absolutely fantastic trip! The flight was smooth, and the hotel exceeded my expectations.",
+      "created_at": "2023-07-06T11:00:00Z",
+      "updated_at": "2023-07-06T11:00:00Z"
+    }
+  },
+  {
+    "model": "wanderellaapi.Review",
+    "pk": 3,
+    "fields": {
+      "booking_id": 3,
+      "rating": 3,
+      "comment": "The flight was decent, but the hotel could have been better. The rental car was great, though.",
+      "created_at": "2023-07-07T12:00:00Z",
+      "updated_at": "2023-07-07T12:00:00Z"
+    }
+  },
+  {
+    "model": "wanderellaapi.Review",
+    "pk": 4,
+    "fields": {
+      "booking_id": 4,
+      "rating": 4,
+      "comment": "Overall, a very good experience. The flight and hotel were nice, and the rental car was convenient.",
+      "created_at": "2023-07-08T13:00:00Z",
+      "updated_at": "2023-07-08T13:00:00Z"
+    }
+  }
+]

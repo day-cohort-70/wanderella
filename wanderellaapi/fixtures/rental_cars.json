@@ -1,0 +1,67 @@
+[
+  {
+    "model": "wanderellaapi.RentalCar",
+    "pk": 1,
+    "fields": {
+      "car_type": "Economy",
+      "make": "Toyota",
+      "model": "Corolla",
+      "year": 2021,
+      "price_per_day": 50.00,
+      "created_at": "2023-06-14T21:00:00Z",
+      "updated_at": "2023-06-14T21:00:00Z"
+    }
+  },
+  {
+    "model": "wanderellaapi.RentalCar",
+    "pk": 2,
+    "fields": {
+      "car_type": "Compact",
+      "make": "Honda",
+      "model": "Civic",
+      "year": 2022,
+      "price_per_day": 60.00,
+      "created_at": "2023-06-14T21:30:00Z",
+      "updated_at": "2023-06-14T21:30:00Z"
+    }
+  },
+  {
+    "model": "wanderellaapi.RentalCar",
+    "pk": 3,
+    "fields": {
+      "car_type": "Midsize",
+      "make": "Nissan",
+      "model": "Altima",
+      "year": 2021,
+      "price_per_day": 70.00,
+      "created_at": "2023-06-14T22:00:00Z",
+      "updated_at": "2023-06-14T22:00:00Z"
+    }
+  },
+  {
+    "model": "wanderellaapi.RentalCar",
+    "pk": 4,
+    "fields": {
+      "car_type": "SUV",
+      "make": "Ford",
+      "model": "Explorer",
+      "year": 2022,
+      "price_per_day": 100.00,
+      "created_at": "2023-06-14T22:30:00Z",
+      "updated_at": "2023-06-14T22:30:00Z"
+    }
+  },
+  {
+    "model": "wanderellaapi.RentalCar",
+    "pk": 5,
+    "fields": {
+      "car_type": "Luxury",
+      "make": "BMW",
+      "model": "5 Series",
+      "year": 2023,
+      "price_per_day": 150.00,
+      "created_at": "2023-06-14T23:00:00Z",
+      "updated_at": "2023-06-14T23:00:00Z"
+    }
+  }
+]
