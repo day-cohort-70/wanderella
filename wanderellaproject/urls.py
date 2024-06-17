@@ -6,6 +6,6 @@ router = DefaultRouter(trailing_slash=False)
 
 urlpatterns = [
     path('', include(router.urls)),
-    path('register', register_user), # Enables http://localhost:8000/register
-    path('login', login_user), # Enables http://localhost:8000/login
+    path('register', register_user),
+    path('login', login_user),
 ]
