@@ -1,13 +1,17 @@
 from django.urls import path, include
 from rest_framework.routers import DefaultRouter
 from wanderellaapi.views import register_user, login_user
-from wanderellaapi.views import FlightView, AirlineView, RentalCarView, HotelView
+from wanderellaapi.views import (
+    FlightView, AirlineView, RentalCarView, HotelView,
+    BookingView
+)
 
 router = DefaultRouter(trailing_slash=False)
 router.register(r'flights', FlightView, 'flight')
 router.register(r'airlines', AirlineView, 'airline')
 router.register(r'cars', RentalCarView, 'car')
 router.register(r'hotels', HotelView, 'hotel')
+router.register(r'bookings', BookingView, 'booking')
 
 urlpatterns = [
     path('', include(router.urls)),
