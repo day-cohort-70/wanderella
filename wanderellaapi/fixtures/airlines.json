@@ -1,0 +1,22 @@
+[
+  {
+    "model": "wanderellaapi.Airline",
+    "pk": 1,
+    "fields": {
+      "name": "Acme Airlines",
+      "iata_code": "ACM",
+      "created_at": "2023-06-14T10:00:00Z",
+      "updated_at": "2023-06-14T10:00:00Z"
+    }
+  },
+  {
+    "model": "wanderellaapi.Airline",
+    "pk": 2,
+    "fields": {
+      "name": "Global Airways",
+      "iata_code": "GLA",
+      "created_at": "2023-06-14T11:30:00Z",
+      "updated_at": "2023-06-14T11:30:00Z"
+    }
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "model": "wanderellaapi.Hotel",
+    "pk": 1,
+    "fields": {
+      "name": "Luxe Resort",
+      "address": "123 Main St, City",
+      "city": "City",
+      "created_at": "2023-06-14T12:00:00Z",
+      "updated_at": "2023-06-14T12:00:00Z"
+    }
+  },
+  {
+    "model": "wanderellaapi.Hotel",
+    "pk": 2,
+    "fields": {
+      "name": "Cozy Inn",
+      "address": "456 Elm St, Town",
+      "city": "Town",
+      "created_at": "2023-06-14T13:30:00Z",
+      "updated_at": "2023-06-14T13:30:00Z"
+    }
+  },
+  {
+    "model": "wanderellaapi.Hotel",
+    "pk": 3,
+    "fields": {
+      "name": "Sunset Lodge",
+      "address": "789 Oak Ave, Village",
+      "city": "Village",
+      "created_at": "2023-06-14T15:00:00Z",
+      "updated_at": "2023-06-14T15:00:00Z"
+    }
+  }
+]

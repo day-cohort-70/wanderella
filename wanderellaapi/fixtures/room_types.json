@@ -1,0 +1,50 @@
+[
+  {
+    "model": "wanderellaapi.RoomType",
+    "pk": 1,
+    "fields": {
+      "hotel_id": 1,
+      "name": "Standard Room",
+      "description": "A comfortable standard room with basic amenities.",
+      "price": 100.00,
+      "created_at": "2023-06-14T12:30:00Z",
+      "updated_at": "2023-06-14T12:30:00Z"
+    }
+  },
+  {
+    "model": "wanderellaapi.RoomType",
+    "pk": 2,
+    "fields": {
+      "hotel_id": 1,
+      "name": "Deluxe Room",
+      "description": "A spacious deluxe room with additional amenities.",
+      "price": 150.00,
+      "created_at": "2023-06-14T13:00:00Z",
+      "updated_at": "2023-06-14T13:00:00Z"
+    }
+  },
+  {
+    "model": "wanderellaapi.RoomType",
+    "pk": 3,
+    "fields": {
+      "hotel_id": 2,
+      "name": "Cozy Double Room",
+      "description": "A cozy room with a double bed, perfect for couples.",
+      "price": 80.00,
+      "created_at": "2023-06-14T14:00:00Z",
+      "updated_at": "2023-06-14T14:00:00Z"
+    }
+  },
+  {
+    "model": "wanderellaapi.RoomType",
+    "pk": 4,
+    "fields": {
+      "hotel_id": 3,
+      "name": "Family Suite",
+      "description": "A spacious suite suitable for families.",
+      "price": 200.00,
+      "created_at": "2023-06-14T15:30:00Z",
+      "updated_at": "2023-06-14T15:30:00Z"
+    }
+  }
+]

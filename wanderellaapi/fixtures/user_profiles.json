@@ -1,0 +1,80 @@
+[
+    {
+      "model": "wanderellaapi.UserProfile",
+      "pk": 1,
+      "fields": {
+        "user": 1,
+        "profile_picture": "https://example.com/profile_pictures/user1.jpg",
+        "bio": "Travel enthusiast exploring the world!",
+        "phone": "1234567890",
+        "address": "123 Main St, City",
+        "created_at": "2023-06-15T10:00:00Z",
+        "updated_at": "2023-06-15T10:00:00Z"
+      }
+    },
+    {
+      "model": "wanderellaapi.UserProfile",
+      "pk": 2,
+      "fields": {
+        "user": 2,
+        "profile_picture": "https://example.com/profile_pictures/user2.jpg",
+        "bio": "Adventure seeker and nature lover.",
+        "phone": "9876543210",
+        "address": "456 Elm St, Town",
+        "created_at": "2023-06-15T11:00:00Z",
+        "updated_at": "2023-06-15T11:00:00Z"
+      }
+    },
+    {
+      "model": "wanderellaapi.UserProfile",
+      "pk": 3,
+      "fields": {
+        "user": 3,
+        "profile_picture": "https://example.com/profile_pictures/user3.jpg",
+        "bio": "Foodie and cultural explorer.",
+        "phone": "5555555555",
+        "address": "789 Oak Ave, Village",
+        "created_at": "2023-06-15T12:00:00Z",
+        "updated_at": "2023-06-15T12:00:00Z"
+      }
+    },
+    {
+      "model": "wanderellaapi.UserProfile",
+      "pk": 4,
+      "fields": {
+        "user": 4,
+        "profile_picture": "https://example.com/profile_pictures/user4.jpg",
+        "bio": "Wanderlust soul seeking new experiences.",
+        "phone": "9999999999",
+        "address": "321 Pine Rd, County",
+        "created_at": "2023-06-15T13:00:00Z",
+        "updated_at": "2023-06-15T13:00:00Z"
+      }
+    },
+    {
+      "model": "wanderellaapi.UserProfile",
+      "pk": 5,
+      "fields": {
+        "user": 5,
+        "profile_picture": "https://example.com/profile_pictures/user5.jpg",
+        "bio": "Globetrotter on a mission to visit every country.",
+        "phone": "1111111111",
+        "address": "987 Maple Ln, State",
+        "created_at": "2023-06-15T14:00:00Z",
+        "updated_at": "2023-06-15T14:00:00Z"
+      }
+    },
+    {
+      "model": "wanderellaapi.UserProfile",
+      "pk": 6,
+      "fields": {
+        "user": 6,
+        "profile_picture": "https://example.com/profile_pictures/user6.jpg",
+        "bio": "Adventurous soul capturing moments around the world.",
+        "phone": "2222222222",
+        "address": "654 Cedar St, Province",
+        "created_at": "2023-06-15T15:00:00Z",
+        "updated_at": "2023-06-15T15:00:00Z"
+      }
+    }
+  ]
